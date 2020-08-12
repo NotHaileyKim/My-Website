@@ -26,6 +26,26 @@ body {
   background-color:rgb(195, 220, 241);
 }
 .pic{
-  width: 350px;
-  height: 250px
+  width: 450px;
+  height: 330px;
 }
+
+.whitepic{
+  width: 400px;
+  height: 330px;
+}
+
+.tiltinghead{
+  width: 400px; 
+  height: 370px;
+}
+.runningpic {
+  width: 560px;
+  height: 370px;
+}
+
+.girlanddogpic {
+  width: 400px;
+  height: 430px;
+}
+
